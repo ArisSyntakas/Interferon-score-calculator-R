@@ -1,4 +1,6 @@
 # Interferon-score-calculator-R
+Instructions to run script:
+
 
 Before creating the IFN count tables, all sample raw counts (both control & disease) should be normalized together, ideally with the TPM method but any other method will work if raw counts are not available. Then the combined normalized table should be split in two as seen below:
 
